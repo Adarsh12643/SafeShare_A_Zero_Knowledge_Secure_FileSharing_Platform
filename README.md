@@ -23,3 +23,12 @@ SafeShare is a high-security, Zero-Knowledge file-sharing application designed t
 3. Launch the production server:
    ```bash
    uvicorn main:app --reload
+
+### 2. Frontend Setup
+
+1. Update `API_BASE_URL` in `upload.js` and `download.js` to point to your live backend endpoint.
+2. Serve the static HTML pages (`index.html`, `download.html`) through a local live server or host directly on Firebase Hosting.
+
+---
+
+Copyright (c) 2026 Adarsh Pratap Singh. All rights reserved.
