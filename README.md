@@ -1,4 +1,4 @@
-# SafeShare - Zero-Knowledge Secure File Sharing
+# SafeShare - A Zero-Knowledge Secure File Sharing Platform
 
 SafeShare is a high-security, Zero-Knowledge file-sharing application designed to protect user data. Files are fully encrypted directly in the user's browser before upload, ensuring that sensitive information remains entirely private.
 
